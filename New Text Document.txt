@@ -1,0 +1,5 @@
+ get data from DB
+
+ once () method = page refresh data get
+
+ on() method = real time data
